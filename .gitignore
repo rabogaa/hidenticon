@@ -1,0 +1,6 @@
+.stack-work/
+identicon.cabal
+*~
+.idea
+out
+identicon.iml
